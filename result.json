@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sentence__Start",
+    "value": "My name",
+    "slotSetting": false
+  },
+  {
+    "name": "Sentence__Middle",
+    "value": "is",
+    "slotSetting": false
+  },
+  {
+    "name": "Name",
+    "value": "Sangam Dalal",
+    "slotSetting": false
+  }
+]
